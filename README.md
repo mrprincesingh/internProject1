@@ -55,7 +55,6 @@
 ---
 ![Screenshot 2023-04-28 125028](https://user-images.githubusercontent.com/108007506/235081703-e54493d8-9d12-4542-af9b-740422a630cc.png)
 
-<br>
 ![Screenshot 2023-04-28 125108](https://user-images.githubusercontent.com/108007506/235082041-a209b1ba-56a7-4f3e-a171-bd23b172e6f6.png)
 
 
