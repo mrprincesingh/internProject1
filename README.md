@@ -1,11 +1,13 @@
-  To Access the project just download the Zip to your local system 
+💻 PROJECT NAME⭐ ====>>>> ✨ROBOKALAM Intership Assignment💫
+<br>
+
+To Access the project just download the Zip to your local system 
   <br>
   After downloading the Zip follow this path internProject1\app\frontend\liveclass and hit NPM I in the terminal 
   <br> After Downlaoding, just Hit npm start to run the frontend 
   <br> Backend is already deployed , but in order to run the backend file simply hit npm i and after downlaoding hit npm start 
 
-💻 PROJECT NAME⭐ ====>>>> ✨ROBOKALAM Intership Assignment💫
-<br>
+
 
  
 [![Backend Repo Link](https://img.shields.io/badge/Backend_Repo_Link-0A66C2?style=for-the-badge&logo=github&logoColor=#FF7139)](https://github.com/mrprincesingh/internlive)
