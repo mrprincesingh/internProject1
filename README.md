@@ -1,4 +1,8 @@
-  To Access the project just download the zip to your local system 
+  To Access the project just download the Zip to your local system 
+  <br>
+  After downloading the Zip follow this path internProject1\app\frontend\liveclass and hit NPM I in the terminal 
+  <br> After Downlaoding, just Hit npm start to run the frontend 
+  <br> Backend is already deployed , but in order to run the backend file simply hit npm i and after downlaoding hit npm start 
 
 💻 PROJECT NAME⭐ ====>>>> ✨ROBOKALAM Intership Assignment💫
 <br>
@@ -46,8 +50,10 @@
 | 4 | dotenv |  react|
 | 5 | express | JAVASCRIPT |
 
-
 ---
+## Screenshots 📷
+---
+![Screenshot (1658)](![Screenshot 2023-04-28 125028](https://user-images.githubusercontent.com/108007506/235081703-e54493d8-9d12-4542-af9b-740422a630cc.png)
 
 
 
